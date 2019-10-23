@@ -21,7 +21,7 @@ li {
 /*menu bar starts here*/
 
 #topmenu {
-  background-color: #e4e4e4;
+  background-color: #eaeaea;
   width: 100%;
   height: 115px;
   border-bottom: 1px;
@@ -63,7 +63,7 @@ li {
 }
 
 .button {
-  background-color: #e4e4e4;
+  background-color: #eaeaea;
   border: none;
   color: #fff;
   padding: 15px 15px;
