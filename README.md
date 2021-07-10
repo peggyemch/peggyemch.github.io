@@ -1,2 +1,2 @@
 # peggyemch.github.io
-The concept of Surely is a joke. The purpose of the site is to practice my coding.
+Was expanding on my CSS and HTML skills and made this website from scratch. It started out as a joke and is evolving into a portfolio. 
